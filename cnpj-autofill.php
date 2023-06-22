@@ -4,7 +4,7 @@ Plugin Name: Autopreenchimento de CNPJ em formulários
 Description: Preenchimento automático de campos baseado no CNPJ informado.
 Plugin URI:
 Author: Weber Z.
-Author URI: https://www.smartinnovation.com.br/
+Author URI:
 Version: 1.0
 */
 
